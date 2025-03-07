@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PH52892_SD19306_KiemThuNangCao:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PH52892_SD19306_KiemThuNangCao</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PH52892_SD19306_KiemThuNangCao-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PH52892_SD19306_KiemThuNangCao:war exploded" />
+    </root>
+  </artifact>
+</component>
